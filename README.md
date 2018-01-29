@@ -1,4 +1,4 @@
-Install vim
+Install vim [![Build Status](https://travis-ci.org/shengyou/ansible-role-vim.svg?branch=master)](https://travis-ci.org/shengyou/ansible-role-vim)
 =========
 
 install vim.
